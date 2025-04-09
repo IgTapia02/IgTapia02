@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently studing on [UDIT](https://udit.es/)
 
-- 🌱 I’m currently learning **Java, Unity and Unreal**
-
-- 💬 Ask me about **c++,c# and java**
+- 💬 Ask me about **c, c++,c#, java, javascript, unity and unreal engine**
 
 - 📫 How to reach me **igtapia001@gmail.com**
 
